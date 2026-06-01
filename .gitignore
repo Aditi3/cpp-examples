@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE settings
+.vscode/
+.idea/
+.vs/
+
+# Build output
+build/
+cmake-build-*/
+Debug/
+Release/
+x64/
