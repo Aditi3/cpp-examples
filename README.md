@@ -12,4 +12,6 @@ cmake --build build
 
 2. To show out on the console, run 
 
-`./build/<Game-name>`
+```
+./build/<Game-name>
+```
